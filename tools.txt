@@ -1,0 +1,2 @@
+Git is a source code managgement tool
+Jenkins is popular automation tool 
